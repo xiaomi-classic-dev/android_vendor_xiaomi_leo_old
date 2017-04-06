@@ -167,7 +167,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/lib64/libmorpho_panorama.so:system/lib64/libmorpho_panorama.so \
     vendor/xiaomi/leo/proprietary/lib64/libmm-omxcore.so:system/lib64/libmm-omxcore.so \
     vendor/xiaomi/leo/proprietary/lib64/libqminvapi.so:system/lib64/libqminvapi.so \
-    vendor/xiaomi/leo/proprietary/lib64/libqcmediaplayer.so:system/lib64/libqcmediaplayer.so \
     vendor/xiaomi/leo/proprietary/lib64/librilqmiservices.so:system/lib64/librilqmiservices.so \
     vendor/xiaomi/leo/proprietary/lib64/libstagefright_soft_flacdec.so:system/lib64/libstagefright_soft_flacdec.so \
     vendor/xiaomi/leo/proprietary/lib64/libstagefright_soft_ffmpegadec.so:system/lib64/libstagefright_soft_ffmpegadec.so \
@@ -181,7 +180,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/lib/soundfx/libdirac.so:system/lib/soundfx/libdirac.so \
     vendor/xiaomi/leo/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
     vendor/xiaomi/leo/proprietary/lib/libdashplayer.so:system/lib/libdashplayer.so \
-    vendor/xiaomi/leo/proprietary/lib/libqcmediaplayer.so:system/lib/libqcmediaplayer.so \
     vendor/xiaomi/leo/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
     vendor/xiaomi/leo/proprietary/lib/librilqmiservices.so:system/lib/librilqmiservices.so \
     vendor/xiaomi/leo/proprietary/lib/libqminvapi.so:system/lib/libqminvapi.so \
