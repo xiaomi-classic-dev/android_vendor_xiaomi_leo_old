@@ -159,7 +159,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/lib64/hw/audio.primary.msm8994.so:system/lib64/hw/audio.primary.msm8994.so \
     vendor/xiaomi/leo/proprietary/lib64/hw/sensors.leo.so:system/lib64/hw/sensors.leo.so \
     vendor/xiaomi/leo/proprietary/lib64/libinvensense_hal.so:system/lib64/libinvensense_hal.so \
-    vendor/xiaomi/leo/proprietary/lib64/libsensorservice.so:system/lib64/libsensorservice.so \
     vendor/xiaomi/leo/proprietary/lib64/egl/libGLES_android.so:system/lib64/egl/libGLES_android.so \
     vendor/xiaomi/leo/proprietary/lib64/libdashplayer.so:system/lib64/libdashplayer.so \
     vendor/xiaomi/leo/proprietary/lib64/libmorpho_memory_allocator.so:system/lib64/libmorpho_memory_allocator.so \
@@ -193,7 +192,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/lib/libmorpho_memory_allocator.so:system/lib/libmorpho_memory_allocator.so \
     vendor/xiaomi/leo/proprietary/lib/libmorpho_panorama.so:system/lib/libmorpho_panorama.so \
     vendor/xiaomi/leo/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
-    vendor/xiaomi/leo/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
     vendor/xiaomi/leo/proprietary/lib/libstagefright_soft_flacdec.so:system/lib/libstagefright_soft_flacdec.so \
     vendor/xiaomi/leo/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
     vendor/xiaomi/leo/proprietary/vendor/bin/fidodaemon:system/vendor/bin/fidodaemon \
