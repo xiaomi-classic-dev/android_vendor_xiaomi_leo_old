@@ -398,6 +398,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/vendor/lib64/libxtwifi_ulp_adaptor.so:system/vendor/lib64/libxtwifi_ulp_adaptor.so \
     vendor/xiaomi/leo/proprietary/vendor/lib64/libuiblur.so:system/vendor/lib64/libuiblur.so \
     vendor/xiaomi/leo/proprietary/vendor/lib64/sensors.ssc.so:system/vendor/lib64/sensors.ssc.so \
+    vendor/xiaomi/leo/proprietary/vendor/lib64/libprotobuf-cpp-lpro.so:system/vendor/lib64/libprotobuf-cpp-lpro.so \
     vendor/xiaomi/leo/proprietary/vendor/lib64/libprotobuf-cpp-preo.so:system/vendor/lib64/libprotobuf-cpp-preo.so \
     vendor/xiaomi/leo/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
     vendor/xiaomi/leo/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
