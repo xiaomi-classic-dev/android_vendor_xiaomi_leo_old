@@ -151,6 +151,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
     vendor/xiaomi/leo/proprietary/lib64/hw/activity_recognition.msm8994.so:system/lib64/hw/activity_recognition.msm8994.so \
     vendor/xiaomi/leo/proprietary/lib64/hw/audio.primary.msm8994.so:system/lib64/hw/audio.primary.msm8994.so \
+    vendor/xiaomi/leo/proprietary/lib64/hw/gps.msm8994.so:system/lib64/hw/gps.msm8994.so \
+    vendor/xiaomi/leo/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so \
+    vendor/xiaomi/leo/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so \
+    vendor/xiaomi/leo/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
     vendor/xiaomi/leo/proprietary/vendor/lib64/libsensors.leo.so:system/vendor/lib64/libsensors.leo.so \
     vendor/xiaomi/leo/proprietary/lib64/libinvensense_hal.so:system/lib64/libinvensense_hal.so \
     vendor/xiaomi/leo/proprietary/lib64/egl/libGLES_android.so:system/lib64/egl/libGLES_android.so \
@@ -165,6 +169,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/lib/hw/activity_recognition.msm8994.so:system/lib/hw/activity_recognition.msm8994.so \
     vendor/xiaomi/leo/proprietary/lib/hw/audio.primary.msm8994.so:system/lib/hw/audio.primary.msm8994.so \
     vendor/xiaomi/leo/proprietary/lib/hw/camera.vendor.msm8994.so:system/lib/hw/camera.vendor.msm8994.so \
+    vendor/xiaomi/leo/proprietary/lib/hw/gps.msm8994.so:system/lib/hw/gps.msm8994.so \
+    vendor/xiaomi/leo/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+    vendor/xiaomi/leo/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
+    vendor/xiaomi/leo/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/xiaomi/leo/proprietary/vendor/lib/libsensors.leo.so:system/vendor/lib/libsensors.leo.so \
     vendor/xiaomi/leo/proprietary/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
     vendor/xiaomi/leo/proprietary/lib/soundfx/libdirac.so:system/lib/soundfx/libdirac.so \
