@@ -188,7 +188,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/xiaomi/leo/proprietary/vendor/bin/qti:system/vendor/bin/qti \
     vendor/xiaomi/leo/proprietary/vendor/bin/sampleauthdaemon:system/vendor/bin/sampleauthdaemon \
-    vendor/xiaomi/leo/proprietary/vendor/bin/slim_daemon:system/vendor/bin/slim_daemon \
     vendor/xiaomi/leo/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/xiaomi/leo/proprietary/vendor/etc/audio_effects.conf:system/vendor/etc/audio_effects.conf \
     vendor/xiaomi/leo/proprietary/vendor/etc/audio_output_policy.conf:system/vendor/etc/audio_output_policy.conf \
