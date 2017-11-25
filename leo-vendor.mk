@@ -134,7 +134,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/framework/QtiTelephonyServicelibrary.jar:system/framework/QtiTelephonyServicelibrary.jar \
     vendor/xiaomi/leo/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/xiaomi/leo/proprietary/lib64/hw/activity_recognition.msm8994.so:system/lib64/hw/activity_recognition.msm8994.so \
-    vendor/xiaomi/leo/proprietary/lib64/hw/audio.primary.msm8994.so:system/lib64/hw/audio.primary.msm8994.so \
     vendor/xiaomi/leo/proprietary/lib64/hw/gps.msm8994.so:system/lib64/hw/gps.msm8994.so \
     vendor/xiaomi/leo/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so \
     vendor/xiaomi/leo/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so \
@@ -147,7 +146,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/lib64/libqminvapi.so:system/lib64/libqminvapi.so \
     vendor/xiaomi/leo/proprietary/vendor/lib64/librilqmiservices.so:system/vendor/lib64/librilqmiservices.so \
     vendor/xiaomi/leo/proprietary/lib/hw/activity_recognition.msm8994.so:system/lib/hw/activity_recognition.msm8994.so \
-    vendor/xiaomi/leo/proprietary/lib/hw/audio.primary.msm8994.so:system/lib/hw/audio.primary.msm8994.so \
     vendor/xiaomi/leo/proprietary/lib/hw/camera.vendor.msm8994.so:system/lib/hw/camera.vendor.msm8994.so \
     vendor/xiaomi/leo/proprietary/lib/hw/gps.msm8994.so:system/lib/hw/gps.msm8994.so \
     vendor/xiaomi/leo/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
@@ -328,7 +326,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/vendor/lib64/libssd.so:system/vendor/lib64/libssd.so \
     vendor/xiaomi/leo/proprietary/vendor/lib64/libStDrvInt.so:system/vendor/lib64/libStDrvInt.so \
     vendor/xiaomi/leo/proprietary/vendor/lib64/libsystem_health_mon.so:system/vendor/lib64/libsystem_health_mon.so \
-    vendor/xiaomi/leo/proprietary/lib64/libtinyalsa.so:system/lib64/libtinyalsa.so \
     vendor/xiaomi/leo/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
     vendor/xiaomi/leo/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
     vendor/xiaomi/leo/proprietary/vendor/lib64/libTimeService.so:system/vendor/lib64/libTimeService.so \
@@ -938,7 +935,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/vendor/lib/libslimclient.so:system/vendor/lib/libslimclient.so \
     vendor/xiaomi/leo/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
     vendor/xiaomi/leo/proprietary/vendor/lib/libStDrvInt.so:system/vendor/lib/libStDrvInt.so \
-    vendor/xiaomi/leo/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/xiaomi/leo/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/xiaomi/leo/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/xiaomi/leo/proprietary/vendor/lib/libtzdrmgenprov.so:system/vendor/lib/libtzdrmgenprov.so \
