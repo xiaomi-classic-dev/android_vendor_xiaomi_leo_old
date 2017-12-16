@@ -134,6 +134,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/xiaomi/leo/proprietary/lib64/hw/activity_recognition.msm8994.so:system/lib64/hw/activity_recognition.msm8994.so \
     vendor/xiaomi/leo/proprietary/lib64/hw/gps.msm8994.so:system/lib64/hw/gps.msm8994.so \
+    vendor/xiaomi/leo/proprietary/lib64/libaptXHD_encoder.so:system/lib64/libaptXHD_encoder.so \
+    vendor/xiaomi/leo/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so \
     vendor/xiaomi/leo/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so \
     vendor/xiaomi/leo/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so \
     vendor/xiaomi/leo/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
@@ -147,6 +149,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/leo/proprietary/lib/hw/activity_recognition.msm8994.so:system/lib/hw/activity_recognition.msm8994.so \
     vendor/xiaomi/leo/proprietary/lib/hw/camera.vendor.msm8994.so:system/lib/hw/camera.vendor.msm8994.so \
     vendor/xiaomi/leo/proprietary/lib/hw/gps.msm8994.so:system/lib/hw/gps.msm8994.so \
+    vendor/xiaomi/leo/proprietary/lib/libaptXHD_encoder.so:system/lib/libaptXHD_encoder.so \
+    vendor/xiaomi/leo/proprietary/lib/libaptX_encoder.so:system/lib/libaptX_encoder.so \
     vendor/xiaomi/leo/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/xiaomi/leo/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/xiaomi/leo/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
